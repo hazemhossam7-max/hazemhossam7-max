@@ -1,7 +1,7 @@
 
 ### Languages & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,c++,js,html,css,git,docker,tensorflow,opencv,scikit-learn,power-bi,keras,CNN,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,docker,tensorflow,opencv,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
 
 <!--
 **hazemhossam7-max/hazemhossam7-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
