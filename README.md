@@ -47,13 +47,72 @@
 
 ---
 
+---
+
 ## 📊 Top Skills  
 
-| Skill       | Proficiency |
-|-------------|-------------|
-| 🐍 Python   | ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
-| 🗄️ SQL      | ![SQL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| 📊 Power BI | ![Power BI](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+### 🖥️ Programming Languages  
+| Skill | Proficiency |
+|-------|-------------|
+| 🐍 Python | ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
+| ⚙️ C++ | ![C++](https://img.shields.io/badge/70%25-yellowgreen?style=for-the-badge) |
+| 🗄️ SQL | ![SQL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| 🌐 HTML | ![HTML](https://img.shields.io/badge/60%25-yellow?style=for-the-badge) |
+| 🎨 CSS | ![CSS](https://img.shields.io/badge/60%25-yellow?style=for-the-badge) |
+| ⚡ JavaScript | ![JS](https://img.shields.io/badge/65%25-yellow?style=for-the-badge) |
+
+---
+
+### 🤖 Machine Learning Algorithms  
+| Algorithms | Proficiency |
+|------------|-------------|
+| Linear & Logistic Regression | ![Reg](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
+| Decision Trees & Random Forests | ![Trees](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| SVM, KNN, K-Means | ![SVM](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+| Forecasting, LSTM | ![LSTM](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
+
+---
+
+### 📚 Frameworks & Libraries  
+| Libraries | Proficiency |
+|-----------|-------------|
+| TensorFlow, Keras | ![TF](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
+| PyTorch | ![PT](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| Scikit-learn | ![SKL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
+| CNN, RNN, Transformers | ![DL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| Hugging Face, NLTK | ![NLP](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
+| OpenCV | ![CV](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+
+---
+
+### 🗄️ Databases  
+| Database | Proficiency |
+|----------|-------------|
+| MySQL | ![MySQL](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+
+---
+
+### 🛠️ Tools  
+| Tool | Proficiency |
+|------|-------------|
+| Jupyter Notebook | ![Jupyter](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
+| Power BI | ![PowerBI](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+| Git & GitHub | ![Git](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+
+---
+
+### 🌍 Core Areas  
+| Area | Proficiency |
+|------|-------------|
+| Machine Learning | ![ML](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
+| Deep Learning | ![DL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
+| NLP | ![NLP](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| Data Science | ![DS](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
+| Data Analysis | ![DA](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
+| Big Data | ![BD](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
+
+---
+
 
 ---
 
