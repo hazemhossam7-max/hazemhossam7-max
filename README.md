@@ -47,57 +47,55 @@
 
 ---
 
----
 
 ## 📊 Top Skills  
-
 ### 🖥️ Programming Languages  
-| Skill | Proficiency |
-|-------|-------------|
-| 🐍 Python | ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
-| ⚙️ C++ | ![C++](https://img.shields.io/badge/70%25-yellowgreen?style=for-the-badge) |
-| 🗄️ SQL | ![SQL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| 🌐 HTML | ![HTML](https://img.shields.io/badge/60%25-yellow?style=for-the-badge) |
-| 🎨 CSS | ![CSS](https://img.shields.io/badge/60%25-yellow?style=for-the-badge) |
-| ⚡ JavaScript | ![JS](https://img.shields.io/badge/65%25-yellow?style=for-the-badge) |
+| Skill |
+|-------|
+| 🐍 Python ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white) |
+| ⚙️ C++ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| 🗄️ SQL ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white) |
+| 🌐 HTML ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| 🎨 CSS ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚡ JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
 ---
 
 ### 🤖 Machine Learning Algorithms  
-| Algorithms | Proficiency |
-|------------|-------------|
-| Linear & Logistic Regression | ![Reg](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
-| Decision Trees & Random Forests | ![Trees](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| SVM, KNN, K-Means | ![SVM](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
-| Forecasting, LSTM | ![LSTM](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
+| Algorithms |
+|------------|
+| Linear & Logistic Regression |
+| Decision Trees & Random Forests |
+| SVM, KNN, K-Means |
+| Forecasting, LSTM |
 
 ---
 
 ### 📚 Frameworks & Libraries  
-| Libraries | Proficiency |
-|-----------|-------------|
-| TensorFlow, Keras | ![TF](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
-| PyTorch | ![PT](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| Scikit-learn | ![SKL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
-| CNN, RNN, Transformers | ![DL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| Hugging Face, NLTK | ![NLP](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
-| OpenCV | ![CV](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+| Libraries |
+|-----------|
+| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| CNN, RNN, Transformers |
+| ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![NLTK](https://img.shields.io/badge/NLTK-154570?style=for-the-badge) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
 
 ---
 
 ### 🗄️ Databases  
-| Database | Proficiency |
-|----------|-------------|
-| MySQL | ![MySQL](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+| Database |
+|----------|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 
 ---
 
 ### 🛠️ Tools  
-| Tool | Proficiency |
-|------|-------------|
-| Jupyter Notebook | ![Jupyter](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
-| Power BI | ![PowerBI](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
-| Git & GitHub | ![Git](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| Tool |
+|------|
+| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
