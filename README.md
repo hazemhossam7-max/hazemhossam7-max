@@ -9,6 +9,8 @@
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-30%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
+![Banner](https://your-banner-link-here.com/banner.png)
+
 # 👋 Hi, I'm Hazem!  
 ### AI & Data Science Engineer​ ✨
 
