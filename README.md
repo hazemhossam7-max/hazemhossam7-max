@@ -3,9 +3,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,docker,tensorflow,opencv,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
 
-![Hazem's stats](https://github-readme-stats.vercel.app/api?username=hazemhossam7-max&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhossam7-max&layout=compact&theme=radical)
+## 📊 My Top Languages
+
+![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-5%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-20%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 <!--
