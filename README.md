@@ -7,9 +7,8 @@
 ## 📊 My Top Languages
 
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-20%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-![C++](https://img.shields.io/badge/C++-5%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-30%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+
 
 
 
