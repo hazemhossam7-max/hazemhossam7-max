@@ -102,12 +102,12 @@
 ### 🌍 Core Areas  
 | Area | Proficiency |
 |------|-------------|
-| Machine Learning | ![ML](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
-| Deep Learning | ![DL](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
-| NLP | ![NLP](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
-| Data Science | ![DS](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
-| Data Analysis | ![DA](https://img.shields.io/badge/85%25-brightgreen?style=for-the-badge) |
-| Big Data | ![BD](https://img.shields.io/badge/70%25-yellow?style=for-the-badge) |
+| Machine Learning | ![ML](https://img.shields.io/badge/25-brightgreen?style=for-the-badge) |
+| Deep Learning | ![DL](https://img.shields.io/badge/25-brightgreen?style=for-the-badge) |
+| NLP | ![NLP](https://img.shields.io/badge/25-yellowgreen?style=for-the-badge) |
+| Data Science | ![DS](https://img.shields.io/badge/25-brightgreen?style=for-the-badge) |
+| Data Analysis | ![DA](https://img.shields.io/badge/25-brightgreen?style=for-the-badge) |
+| Big Data | ![BD](https://img.shields.io/badge/25-yellow?style=for-the-badge) |
 
 ---
 
