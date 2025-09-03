@@ -49,6 +49,17 @@
 ![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-30%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
+---
+
+## 📊 Top Skills  
+
+| Skill       | Proficiency |
+|-------------|-------------|
+| 🐍 Python   | ![Python](https://img.shields.io/badge/90%25-brightgreen?style=for-the-badge) |
+| 🗄️ SQL      | ![SQL](https://img.shields.io/badge/80%25-yellowgreen?style=for-the-badge) |
+| 📊 Power BI | ![Power BI](https://img.shields.io/badge/75%25-yellow?style=for-the-badge) |
+
+---
 
 <!--
 **hazemhossam7-max/hazemhossam7-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
