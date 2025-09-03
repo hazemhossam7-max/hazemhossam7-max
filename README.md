@@ -3,7 +3,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,docker,tensorflow,opencv,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
 
-![Hazem's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazemhossam7-max&show_icons=true&theme=radical)
+![Hazem's stats](https://github-readme-stats.vercel.app/api?username=hazemhossam7-max&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemhossam7-max&layout=compact&theme=radical)
 
 
 <!--
