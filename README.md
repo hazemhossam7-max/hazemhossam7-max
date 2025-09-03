@@ -1,15 +1,4 @@
 
-### Languages & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,docker,tensorflow,opencv,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
-
-
-## 📊 My Top Languages
-
-![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-30%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
-
-![Banner](https://your-banner-link-here.com/banner.png)
 
 # 👋 Hi, I'm Hazem!  
 ### AI & Data Science Engineer​ ✨
@@ -52,7 +41,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 </p>
 
+### Languages & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=python,c,js,html,css,git,docker,tensorflow,opencv,pandas,mysql,sqlite,arduino&perline=10)](https://skillicons.dev)
+
+## 📊 My Top Languages
+
+![Python](https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-30%25-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 <!--
